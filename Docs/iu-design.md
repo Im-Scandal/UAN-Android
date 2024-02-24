@@ -2,7 +2,7 @@
 
 La interfaz del usuario de UANstagram está inspirada en las interfaz de usuario de aplicaciones similares.
 
-El diseño completo está disponible en [Marvel](). 
+El diseño completo está disponible en [Marvel](https://marvelapp.com/prototype/a4d2ei1). 
 
 La paleta de colores está basada en tonos naranjas, azules y escala de grises.
 
