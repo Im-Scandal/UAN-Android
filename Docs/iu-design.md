@@ -8,9 +8,9 @@ La paleta de colores está basada en tonos naranjas, azules y escala de grises.
 
 El logo se encuentra en desarrollo.
 
-    Logo actual:
+Logo actual:
 
-![LogoVer1](images/LogoUANstagram.jpg)
+! [LogoVer1](images/LogoUANstagram.jpg)
 
 ## Escenas principales
 1. Inicio
