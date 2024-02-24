@@ -10,7 +10,7 @@ El logo se encuentra en desarrollo.
 
 Logo actual:
 
-![LogoVer1](Images/LogoUANstagram.jpg)
+<img src="Images/LogoUANstagram.jpg" alt="LogoVer1" width="100"/>
 
 ## Escenas principales
 1. Inicio
