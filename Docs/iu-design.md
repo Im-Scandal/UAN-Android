@@ -23,7 +23,7 @@ Logo actual:
 <img src="Images/LogoUANstagram.jpg" alt="SubidaMultimedia" width="300"/>
 
 4. Lista de Facultades
-<img src="images/Pagina-Facultades-UANstagram.png" alt="Facultades" width="300"/>
+<img src="Images/Pagina-Facultades-UANstagram.png" alt="Facultades" width="300"/>
 
 5. Chats
 <img src="Images/LogoUANstagram.jpg" alt="Chats" width="300"/>
