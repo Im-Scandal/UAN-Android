@@ -14,11 +14,16 @@ Logo actual:
 
 ## Escenas principales
 1. Inicio
+<img src="Images/Pagina-Inicio-UANstagram.png" alt="Inicio" width="100"/>
 
 2. Perfil
+<img src="Images/Pagina-Perfil-UANstagram.png" alt="Perfil" width="100"/>
 
 3. Página para subir multimedia
+<img src="Images/LogoUANstagram.jpg" alt="SubidaMultimedia" width="100"/>
 
 4. Lista de Facultades
+<img src="Images/LogoUANstagram.jpg" alt="Facultades" width="100"/>
 
 5. Chats
+<img src="Images/LogoUANstagram.jpg" alt="Chats" width="100"/>
