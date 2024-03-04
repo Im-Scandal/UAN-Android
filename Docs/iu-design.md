@@ -26,7 +26,8 @@ En este apartado el usuario podrá ver su perfil con detalles como: nombre, carr
 ### 3. Página para subir multimedia
 Al igual que plataformas similares, en este apartado se dará la opción de subir multimedia que el usuario quiera, ya sea una foto o un video, también desde aquí el usuario podrá ver la opción de subir una pregunta sobre algún trabajo que este desarrollando. 
 
-<img src="Images/LogoUANstagram.jpg" alt="SubidaMultimedia" width="300"/>
+<img src="Images/Pagina-Upload-UANstagram.png" alt="SubidaMultimedia" width="300"/>
+<img src="Images/Pagina-Upload2-UANstagram.png" alt="SubidaMultimediaParte2" width="300"/>
 
 ### 4. Lista de Facultades
 En esta pestaña el usuario podrá encpntrar todas las facultades que tiene disponible la UAN.
@@ -40,4 +41,5 @@ Así mismo al presionar sobre una, podrá ver la información sobre esta, dentro
 ### 5. Chats
 En el apartado de chats podrá ver las distintas conversaciones que tiene el usuario.
 
-<img src="Images/LogoUANstagram.jpg" alt="Chats" width="300"/>
+<img src="Images/Pagina-Chats-UANstagram.png" alt="Chats" width="300"/>
+<img src="Images/Pagina-ChatConUsuario-UANstagram.png" alt="ChatConUsuario" width="300"/>
