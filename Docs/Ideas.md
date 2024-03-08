@@ -13,7 +13,7 @@ El objetivo de esta red social es generar la posibilidad de crear conexiones ent
   - [LinkedIn](https://play.google.com/store/search?q=linkedin&c=apps&hl=en&gl=US)
 
 ## Idea 2: Tuantris
-Tuantris es un juego basado en la popular franquicia tetris. Incluiría varios modos de juegos y varias dificultades para poder atraer a personas que quieran desafios
+Tuantris es un juego basado en la popular franquicia tetris. Incluiría varios modos de juegos y varias dificultades para poder atraer a personas que quieran desafios.
 
 ### Aplicaciones similares
   - [Tetris](https://play.google.com/store/apps/details?id=com.n3twork.tetris&hl=en&gl=US)
